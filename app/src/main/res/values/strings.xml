@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Articles</string>
+    <string name="filter">Filter</string>
+    <string name="filter_button_description">filter\n\n</string>
+</resources>
